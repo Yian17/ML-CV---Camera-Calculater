@@ -16,4 +16,4 @@ digit math problem.
 see project report.pdf
 
 ## Video Demo
-I recorded a video demo
+The demo of this project is here:
