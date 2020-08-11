@@ -10,7 +10,7 @@ The program takes photos of printed math problem as input. Some of the photos ar
 
 ## Group project
 The whole project is to write a camera calculator. Our program is able to detect and
-recognize the math digits and symbols on a photo. Then, it has three functionalities
+recognize the math digits and symbols on a photo. It has three functionalities.
 Firstly, solve a printed math problem. Secondly, solve a hand-written math problem.
 Thirdly, solve the Sudoku problem. Each person in our group will be responsible for one of
 the following parts mainly at first. For this project, I am responsible to solve the printed
