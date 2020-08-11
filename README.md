@@ -1,5 +1,4 @@
-# ML-CV---Camera-Calculater
-## Camera calculator project -- Printed math problem
+# Camera calculator - Printed math problem
 
 ## Overview
 This part of the Camera calculator can calculate printed math problems, which is a subproject of a group project. 
