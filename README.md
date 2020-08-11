@@ -1,8 +1,12 @@
 # Camera calculator - Printed math problem
 
+# Keywords
+Image processing, Features and Matching, and Recognition.
+
 ## Overview
 This part of the Camera calculator can calculate printed math problems, which is a subproject of a group project. 
 I am responsible for designing and implementing the whole part of the printed math problem calculator.
+The program takes photos of printed math problem as input. Some of the photos are oblique. It is able to recognize the math expression on the photo, and solve it. Then, paste the result back to the photo.
 
 ## Group project
 The whole project is to write a camera calculator. Our program is able to detect and
@@ -16,4 +20,7 @@ digit math problem.
 see project report.pdf
 
 ## Video Demo
-The demo of this project is here:
+The demo of this project is here: https://rb.gy/p82tnz
+
+
+ 
