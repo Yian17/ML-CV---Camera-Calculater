@@ -17,10 +17,13 @@ the following parts mainly at first. For this project, I am responsible to solve
 digit math problem.
 
 ## Report
-see project report.pdf
+see project report.pdf: https://rb.gy/p82tnz
 
 ## Video Demo
 The demo of this project is here: https://rb.gy/p82tnz
+
+## Techniques
+homography theory, contour method, neural network,etc.
 
 
  
